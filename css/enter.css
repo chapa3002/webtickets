@@ -1,0 +1,15 @@
+
+.container h1{
+
+    color: aquamarine;
+    margin: 40px;
+}
+form{
+    max-width: 1300px;
+    padding: 10px;
+    text-align: center;
+    justify-content: space-around;
+}
+input{
+    margin: 10px;
+}
